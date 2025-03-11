@@ -36,10 +36,3 @@ GUI-Calculator is a graphical user interface calculator application developed us
 
 Contributions are welcome! Please fork the repository and create a pull request to add new features or fix issues.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please feel free to contact me via [GitHub](https://github.com/Ratnatra).
